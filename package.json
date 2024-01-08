@@ -30,7 +30,7 @@
 	"scripts": {
 		"start": "react-scripts start",
 		"build": "react-scripts build",
-		"dev": "nodemon server.js",
+		"dev": "node server.js",
 		"eject": "react-scripts eject"
 	},
 	"eslintConfig": {
