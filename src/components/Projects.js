@@ -54,7 +54,7 @@ export const Projects = () => {
               {({ isVisible }) =>
               <div className={isVisible ? "animate__animated animate__fadeIn": ""}>
                 <h2>Projects</h2>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                <p>Passionate and dedicated Full-Stack Developer with expertise in MERN stack development. Proficient in creating robust web applications by seamlessly integrating frontend and backend technologies. Known for a strong focus on user-centric design, ensuring engaging and intuitive user experiences. Committed to continuous learning and staying abreast of the latest trends in web development. Eager to contribute technical skills and creativity to innovative projects.</p>
                 <Tab.Container id="projects-tabs" defaultActiveKey="first">
                   <Nav variant="pills" className="nav-pills mb-5 justify-content-center align-items-center" id="pills-tab">
                     <Nav.Item>
