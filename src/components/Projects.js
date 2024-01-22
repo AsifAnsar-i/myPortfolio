@@ -14,17 +14,17 @@ export const Projects = () => {
 
   const projects = [
     {
-      title: "Mern Real Estate",
+      title: "Mern Blog",
       description: "Design & Development",
       imgUrl: projImg1,
     },
     {
-      title: "Cloud Management",
+      title: "Mern Real Estate",
       description: "Design & Development",
       imgUrl: projImg2,
     },
     {
-      title: "YouTube Clone",
+      title: "Cloud Management",
       description: "Design & Development",
       imgUrl: projImg3,
     },
@@ -34,12 +34,12 @@ export const Projects = () => {
       imgUrl: projImg4,
     },
     {
-      title: "Blood Bank",
+      title: "Freelancing Website",
       description: "Design & Development",
       imgUrl: projImg5,
     },
     {
-      title: "Business Startup",
+      title: "Trading Website",
       description: "Design & Development",
       imgUrl: projImg6,
     },
